@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riskal
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning JavaScript and PHP Language
+- 🌱 I’m currently learning JavaScript, PHP Language, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
